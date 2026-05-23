@@ -18,7 +18,7 @@ Recently, I transitioned into **Data Science**, where I’m exploring data analy
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React (if you use it)  
+**Frontend:** HTML, CSS, JavaScript, React.js
 **Data Science:** Python, Pandas, NumPy, Matplotlib (in progress)  
 **Tools:** Git, GitHub, VS Code, Figma  
 **Other:** Responsive design, API integration, UI/UX basics  
